@@ -1,0 +1,20 @@
+{
+  "pub_key": "BLS_VER_KEY~...",
+  "name": "Encapsulate",
+  "description": "Backed by five years of experience, Encapsulate secures 40+ networks with nearly half a billion dollars in delegated stake, delivering industry-leading uptime, rigorous security, and community-driven open-source tools",
+  "company_name": "Encapsulate",
+  "company_website": "https://encapsulate.xyz",
+  "client_version": "v1.0.0",
+  "icon": {
+    "14x14": {
+      "@1x": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png",
+      "@2x": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png",
+      "@3x": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png"
+    },
+    "24x24": {
+      "@1x": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png",
+      "@2x": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png",
+      "@3x": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png"
+    }
+  }
+}
