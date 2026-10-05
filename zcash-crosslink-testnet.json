@@ -1,0 +1,10 @@
+{
+  "name": "Encapsulate",
+  "owner": "Encapsulate",
+  "email": "security@encapsulate.xyz",
+  "identity": "zfinv1JOZt6lwMlkq6c9JnqR-iEmGIVlPWg3fVNRGY8p7BoRzBYl5k05kpejkoJhnPIqN1FAzPPwwAQawuUars9MvnsQvKQA7ZP58QSQDXintacS9KwhTUTSt7RelPMGyEgkkF",
+  "website": "https://encapsulate.xyz",
+  "description": "Validator infrastructure for new chains, since 2020. Early to testnet, quick to upgrade, easy to reach. Trusted by Sui, NEAR, Monad, Lido, Starknet and more.",
+  "logo": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png",
+  "twitter": "https://x.com/encapHQ"
+}
